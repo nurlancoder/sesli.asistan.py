@@ -1,0 +1,7 @@
+tk
+requests
+speechrecognition
+winsound
+smtplib
+email
+webbrowser
